@@ -21,7 +21,7 @@
     "discord.js": "^12.5.1",
     "discord.js-slash-command": "^1.2.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg-static": "^4.4.0",
     "fs": "^0.0.2",
     "mal-scraper": "^2.11.3",
